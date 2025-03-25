@@ -36,7 +36,6 @@ image:
 
 service:
   type: LoadBalancer
-  loadBalancerIP: 10.90.128.89  # Static IP reserved via gcloud
   annotations:
     cloud.google.com/load-balancer-type: "Internal"
   ports:
