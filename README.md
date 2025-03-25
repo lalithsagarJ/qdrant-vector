@@ -1,7 +1,7 @@
 ---
 ## 📄 README.md
 
-```
+
 # ⚡ Local Semantic Search with Qdrant + SentenceTransformers + FastAPI
 
 This project is a blazing-fast, fully offline-capable vector search engine using:
