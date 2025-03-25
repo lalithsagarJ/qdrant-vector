@@ -123,11 +123,3 @@ Built with help from my DevOps + AI ninja partner 🥷
 
 ---
 
-## ☠️ License
-
-MIT – use it, abuse it, build something epic.
-
-```
-
----
-
