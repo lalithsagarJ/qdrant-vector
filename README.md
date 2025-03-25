@@ -118,7 +118,7 @@ print(response.json())
 
 ## 🧠 Author
 
-**Lalith Sagar**, a vector cowboy 🤠  
+**Lalith Sagar** 🤠  
 Built with help from my DevOps + AI ninja partner 🥷
 
 ---
