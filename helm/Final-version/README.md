@@ -1,5 +1,5 @@
 ---
-```markdown
+
 # 🧠 Qdrant Vector Database – Production Helm Setup on GKE
 
 This document outlines a full-scale deployment of Qdrant on Google Kubernetes Engine (GKE) using Helm, optimized for internal search workloads and snapshot management.
